@@ -1,16 +1,16 @@
 @font-face {
   font-family: 'Playfair-Black';
-  src: url("/fonts/playfairdisplay-black.eot") format("eot"), url("/fonts/playfairdisplay-black.ttf") format("truetype"), url("/fonts/playfairdisplay-black.woff") format("woff"), url("/fonts/playfairdisplay-black.svg#playfairdisplay-black") format("svg");
+  src: url("fonts/playfairdisplay-black.eot") format("eot"), url("fonts/playfairdisplay-black.ttf") format("truetype"), url("fonts/playfairdisplay-black.woff") format("woff"), url("fonts/playfairdisplay-black.svg#playfairdisplay-black") format("svg");
 }
 
 @font-face {
   font-family: 'Proxima-Bold';
-  src: url("/fonts/Proxima_Nova_Bold.eot") format("eot"), url("/fonts/Proxima_Nova_Bold.ttf") format("truetype"), url("/fonts/Proxima_Nova_Bold.woff") format("woff"), url("/fonts/Proxima_Nova_Bold.svg#Proxima_Nova_Bold") format("svg");
+  src: url("fonts/Proxima_Nova_Bold.eot") format("eot"), url("fonts/Proxima_Nova_Bold.ttf") format("truetype"), url("fonts/Proxima_Nova_Bold.woff") format("woff"), url("fonts/Proxima_Nova_Bold.svg#Proxima_Nova_Bold") format("svg");
 }
 
 @font-face {
   font-family: 'Proxima-Regular';
-  src: url("/fonts/Proxima_Nova_Regular.eot") format("eot"), url("/fonts/Proxima_Nova_Regular.ttf") format("truetype"), url("/fonts/Proxima_Nova_Regular.woff") format("woff"), url("/fonts/Proxima_Nova_Regular.svg#Proxima_Nova_Regular") format("svg");
+  src: url("fonts/Proxima_Nova_Regular.eot") format("eot"), url("fonts/Proxima_Nova_Regular.ttf") format("truetype"), url("fonts/Proxima_Nova_Regular.woff") format("woff"), url("fonts/Proxima_Nova_Regular.svg#Proxima_Nova_Regular") format("svg");
 }
 
 * {
@@ -158,7 +158,7 @@ img {
 }
 
 .main_info {
-  background-image: url("/img/111.jpg");
+  background-image: url("img/111.jpg");
   background-repeat: no-repeat;
   background-position: top center;
   background-color: #fbfbfb;
