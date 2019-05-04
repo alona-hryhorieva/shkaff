@@ -33,7 +33,7 @@ $(function(){
 	        // window.location.hash = target;
 	    });
 	});
-    $('#Editbox2').mask('+7 (999) 999-9999');
+    $('input[name=phone]').mask('+7 (999) 999-9999');
     
     $('a.fancybox').fancybox();
 	$('[data-event]').on('click',function(){
